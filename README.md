@@ -1,1 +1,1 @@
-# coding-project-template
+# React App: Shopping Cart
